@@ -5,9 +5,9 @@ Raskla reconnaît chaque type de matériau, puis les sépare et les traite sans 
 
 ## Chaine youtube : https://www.youtube.com/channel/UCFbEC0p91g13CK2OYlWyfbQ
 
-## Vidéo promotionnelle : https://www.youtube.com/watch?v=CrgtdEoOyF4&t=9s
+## Vidéo promotionnelle : https://www.youtube.com/watch?v=MuKQCMuBjSo
 
-## Vidéo demo : https://www.youtube.com/watch?v=CrgtdEoOyF4&t=9s
+## Vidéo demo : https://www.youtube.com/watch?v=CrgtdEoOyF4
 
 ## Site Web : http://raskla.tk/
 
