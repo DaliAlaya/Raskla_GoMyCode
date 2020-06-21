@@ -1,7 +1,6 @@
 # Raskla_GoMyCode
 
-## Notre projet consiste à créer une Reverse Vending Machine (RVM) où les gens peuvent retourner des bouteilles vides, telles que des bouteilles d'eau / boisson, des canettes .. pour le recyclage et éventuellement gagner de l'argent ou des coupons.
-Raskla reconnaît chaque type de matériau, puis les sépare et les traite sans contamination.
+## Notre projet consiste à créer une Reverse Vending Machine (RVM) où les gens peuvent retourner des bouteilles vides, telles que des bouteilles d'eau / boisson, des canettes .. pour le recyclage et éventuellement gagner de l'argent ou des coupons.Raskla reconnaît chaque type de matériau, puis les sépare et les traite sans contamination.
 
 ![alt text](https://github.com/DaliAlaya/Raskla_GoMyCode/blob/master/BMC.png)
 
